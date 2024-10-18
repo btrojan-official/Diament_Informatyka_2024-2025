@@ -19,7 +19,6 @@ int main(){
 	int counter = 0;
 
 	for(int i=0;i<n;i++){
-		cout << i << endl;
 		if(i==0 && squares[i] == 'b'){ flips[i] = 1; counter++;}
 		else if(i==0) continue;
 		else if(i<k){

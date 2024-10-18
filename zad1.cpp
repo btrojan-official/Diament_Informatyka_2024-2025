@@ -45,14 +45,6 @@ int main(){
 	}
 	
 	cout << counter;
-//	for(int b=0;b<500;b++){
-//		string a="";
-//		for(int b=0;b<250;b++){
-//			a += "sl";
-//		}
-//		cout << a << endl;
-//	}
-	
 	
 	return 0;
 }
